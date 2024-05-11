@@ -52,9 +52,9 @@ The CNN architecture consists of the following layers:
    - The predicted symbols are concatenated to form the complete equation, which is then passed to the `sympy` library for evaluation.
    - Exception handling is implemented to handle scenarios like division by zero or other errors during equation solving.
 
-
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1UeoeopPc9mf4M8oVOFVY_OKZjRL4TA3y/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
-
+## Demo
+# link to working Demo:
+ https://drive.google.com/file/d/1UeoeopPc9mf4M8oVOFVY_OKZjRL4TA3y/view?usp=sharing  
 
 ## Requirements
 
